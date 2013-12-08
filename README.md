@@ -5,7 +5,7 @@ This is a prototype test tool designed to extract named entities from PDF oral h
 
 This software is no longer in active development, it was built specifically for the linked jazz project and is being published to document our process and inform any questions about the project.
 
-Refactored open source version this tool is in development and will launch in 2014.
+Refactored open source version of this tool is in development and will launch in 2014.
 
 ---
 
