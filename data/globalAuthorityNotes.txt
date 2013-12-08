@@ -1,0 +1,165 @@
+
+<http://linkedjazz.org/resource/Linda_Rondstadt>|||jn
+<http://linkedjazz.org/resource/Ed_Jobear>||He is a dentist, can't find a website for him. |cm
+<http://linkedjazz.org/resource/Hal_Serra>|http://www.jazzdiscography.com/Leaders/SerraHal-ldr.php|He is a dentist, can't find a website for him. |cm
+<http://linkedjazz.org/resource/Harvey_LaRose>|http://inter-jazz.com/web/artists/phil-woods/||cm
+<http://linkedjazz.org/resource/Mike_Woods>|http://www.hamilton.edu/news/tags/Michael%20%22Doc%22%20Woods||cm
+<http://linkedjazz.org/resource/Mona_Hinton>|http://www.milthinton.com/monabio.html||cm
+<http://linkedjazz.org/resource/Bob_Shaffner>|http://books.google.com/books?id=0m6ofMIF7d4C&pg=PA74&lpg=PA74&dq=Bob+Shaffner+trumpet&source=bl&ots=LU5Um6xkq_&sig=wwugxNmASty5qRjzoHq3rcmj_f8&hl=en&sa=X&ei=qq8lUdCVEM6F0QGwkoCgDg&ved=0CC4Q6AEwAA#v=onepage&q=Bob%20Shaffner%20trumpet&f=false|trumpet player|sf
+<http://linkedjazz.org/resource/Tony_Boyd>|http://en.wikipedia.org/wiki/The_Presidents_(band)|Wikipedia article listing Tony Boyd's band |cm
+<http://linkedjazz.org/resource/Kid_Gavilan>|http://en.wikipedia.org/wiki/Kid_Gavilan||cm
+<http://linkedjazz.org/resource/Art_Hillary>|http://www.allmusic.com/artist/art-hillary-mn0001785537|He played the organ for Red Halloway on "No Tears Over You"|cm
+<http://linkedjazz.org/resource/John_Bartles>|http://digicoll.library.wisc.edu/cgi-bin/UW/UW-idx?type=turn&id=UW.v88i3&entity=UW.v88i3.p0030&isize=text|BARTELS, JOHN ALLEN '54, Milwaukee, well
+known jazzophile, co-founder of Milwaukee's
+Jazz Experience which promoted jazz as a way
+of teaching cultural history, onetime corre-
+spondent for Metronome and Downbeat
+magazines; in December.|cm
+<http://linkedjazz.org/resource/David_Ostwald>|http://www.ostwaldjazz.com/|There is a sage manager named the same in LOC. Could not find authority for this Ostwald besides his personal webpage |mm
+<http://linkedjazz.org/resource/Colleen_Raye>|http://www.colleenraye.com/|Jazz singer|cm
+<http://linkedjazz.org/resource/Sir_Cyril_Dyson>|http://www.windsorobserver.co.uk/news/roundup/articles/2011/02/05/50524-turn-back-that-clock-/?mode=print|Was mayor of Windsor|cm
+<http://linkedjazz.org/resource/Johnny_Gary>|||cm
+<http://linkedjazz.org/resource/Kenny_Andrews>|||cm
+<http://linkedjazz.org/resource/Father_Anthony_Woods>|||cm
+<http://linkedjazz.org/resource/Father_Crowley>|||cm
+<http://linkedjazz.org/resource/Jerry_Winters_clarinet>|http://www.amazon.com/Friends-Along-Way-Journey-Through/dp/0300099673/ref=sr_1_2?ie=UTF8&qid=1363125518&sr=8-2&keywords=a+journey+through+jazz#reader_0300099673|Found in book: Friends Along the Way: Journeys Through Jazz|sf
+<http://linkedjazz.org/resource/Karl_Glassman_tympani>|http://www.pas.org/Libraries/PASIC_Archives/1005_68.sflb.ashx|From the Percussive Arts Society directory|sf
+<http://linkedjazz.org/resource/Ron_Falter_drum-instructor>||mentioned in several online stories related to drummers|sf
+<http://linkedjazz.org/resource/Roy_Knapp>|http://www.pas.org/experience/halloffame/KnappRoy.aspx|From Percussive Arts Society Directory|sf
+<http://linkedjazz.org/resource/Stan_Irwin_manager>|http://www.tv.com/people/stan-irwin/biography/|Mentioned in several places as Pearl Bailey's manager|sf
+<http://linkedjazz.org/resource/Argo_Percy_Walker_drummer>|http://books.google.com/books?id=M8uoi3JV6T0C&pg=PA277&lpg=PA277&dq=Argo+Percy+Walker&source=bl&ots=vU0ycDB4XO&sig=2bHCTVK2dcpz_KKBqr3k-HycGHM&hl=en&sa=X&ei=sRpBUZXtOvG64AOmkYGQDQ&ved=0CEcQ6AEwBA#v=onepage&q=Argo%20Percy%20Walker&f=false|Found in linked book, and several places online: sometimes Argo Percy or Percy Argo|sf
+<http://linkedjazz.org/resource/Jack_Crown>|http://www.charliemarianotribute.de/disco1953.html||cm
+<http://linkedjazz.org/resource/Stanley_Kay>|http://en.wikipedia.org/wiki/Sherrie_Maricle||cm
+<http://linkedjazz.org/resource/Virginia_Burley>||Source relates back to this transcript, V.B. was MLW's mom|cm
+<http://linkedjazz.org/resource/Sylvester_Briscoe>|http://depthome.brooklyn.cuny.edu/isam/NewsF86.pdf|Trombonist who played with MLW|cm
+<http://linkedjazz.org/resource/Robert_Harris>|http://www.nytimes.com/1990/04/22/obituaries/robert-harris-pianist-74.html|Robert Harris, a pianist who taught at The Juilliard School for 24 years, died of a stroke on Tuesday at St. Vincent's Hospital. He was 74 years old and lived in Manhattan.
+
+Mr. Harris, who was born in Waco, Tex., studied at Baylor University and with noted piano teachers before establishing his own studio in New York. He joined the Juilliard faculty in 1966.
+
+He is survived by a sister, Jonneta Bonner of Houston, and a brother, Coleridge, of Fairfield, Calif.|cm
+<http://linkedjazz.org/resource/Mose_Winn>||Source is this transcript Mose Winn is MLW's father|cm
+<http://linkedjazz.org/resource/Peggy_Mellon_Hitchcock>||Heiress to the Mellon banking fortune|cm
+<http://linkedjazz.org/resource/Margaret_Warren>||Dancer friend of MLW|cm
+<http://linkedjazz.org/resource/Josephine_Burley>||Sister of MLW|cm
+<http://linkedjazz.org/resource/Daphne_Arnstein>|http://en.wikipedia.org/wiki/Jazzmobile|jazz patron, helped found Jazzmobile|sf
+<http://linkedjazz.org/resource/Henry_Grant>|http://www.pbs.org/ellingtonsdc/noteMusicians.htm#Grant|jazz educator in DC, also taught Duke Ellington|sf
+<http://linkedjazz.org/resource/Boo_Frazier>|http://www.discogs.com/artist/Boo+Frazier|Dizzy Gillespie's cousin|cm
+<http://linkedjazz.org/resource/Theodore_Bennett>|http://books.google.com/books?id=I5wrGL-a-Q8C&pg=PP73&lpg=PP73&dq=Theodore+%22Cuban%22+Bennett&source=bl&ots=qxttJEJqiL&sig=WsGp8wpv96OAXH6YNw6L2qxx9sA&hl=en&sa=X&ei=1DmBUdTLKu3V0gHM_YGADA&ved=0CDAQ6AEwAA|Trumpeter |cm
+<http://linkedjazz.org/resource/Fletcher_Burley>||MLW's stepfather |cm
+<http://linkedjazz.org/resource/Geraldine_Burley>||MLW's sister|cm
+<http://linkedjazz.org/resource/Howard_Burley>||MLW's brother, painter|cm
+<http://linkedjazz.org/resource/Jack_Howard>|http://books.google.com/books?id=ivMPt74OL2YC&pg=PA179&lpg=PA179&dq=Jack+Howard+jazz+pianist&source=bl&ots=wWujNtEUQy&sig=F7SmNveEKd5ilqaqQ5C_D8EN8IE&hl=en&sa=X&ei=sUGBUargKInA4AOt-4HoCg&ved=0CEYQ6AEwAw#v=onepage&q=Jack%20Howard%20jazz%20pianist&f=false|Jazz pianist|cm
+<http://linkedjazz.org/resource/Johnny_Garrett>|http://books.google.com/books?id=cwUS3CGAe0sC&pg=PA73&lpg=PA73&dq=Johnny+Garrett+sarah+vaughan&source=bl&ots=Rg90PQmUMo&sig=HOUoBylnyUw6Zr7GwnOkDVJZEO4&hl=en&sa=X&ei=NUOBUfSwOoWz4APY0ICgCQ&ved=0CGMQ6AEwBg#v=onepage&q=Johnny%20Garrett%20sarah%20vaughan&f=false|Manager who dated Sarah Vaughan|cm
+<http://linkedjazz.org/resource/Jerry_Burley>||MLW's brother|cm
+<http://linkedjazz.org/resource/Harris_Levy>|http://en.wikipedia.org/wiki/Birdland_%28jazz_club%29|One of the owners of the Birdland Club|cm
+<http://linkedjazz.org/resource/Anna_Jane_Rouser>||MLW's grandmother|cm
+<http://linkedjazz.org/resource/Buzzin'_Harris>||Club owner|cm
+<http://linkedjazz.org/resource/Father_Peter_O'Brien>|http://en.wikipedia.org/wiki/Mary_Lou_Williams|Father Peter O'Brien became her close friend and personal manager in the 1960s|cm
+<http://linkedjazz.org/resource/Willis_Scruggs>||MLW's brother
+|cm
+<http://linkedjazz.org/resource/Mort_Fega>|http://www.jazzhouse.org/gone/lastpost2.php3?edit=1106876758||cm
+<http://linkedjazz.org/resource/Mary_Reese_Europe>|http://jass.com/europe.html|Piano teacher in DC, sister of James Reese Europe|sf
+<http://linkedjazz.org/resource/Burt_Porter>|http://guides.lib.washington.edu/ps-porter||sf
+<http://linkedjazz.org/resource/Gil_Breines>|http://en.wikipedia.org/wiki/Henry_Adler|see"publications"|sf
+<http://linkedjazz.org/resource/Sam_Rowland>|http://trove.nla.gov.au/work/19818803?versionId=23311474|editor|sf
+<http://linkedjazz.org/resource/Jose_Bettancourt_vibraphonist>|http://www.ebay.com/itm/Promo-Photo-Niteclub-Vibraphone-Music-Man-Jose-Bettancourt-w-Autograph-699596-/140654044555|editor|sf
+<http://linkedjazz.org/resource/Trevor_Feldman_drummer>|http://articles.latimes.com/1987-05-14/news/mn-8746_1_heart-attack|son of Victor Feldman|sf
+<http://linkedjazz.org/resource/Tom_Whaley_pianist-arranger-copyist>|http://siris-archives.si.edu/ipac20/ipac.jsp?uri=full=3100001~!238644!0|known for association with Duke Ellington|sf
+<http://linkedjazz.org/resource/Tom_Anderson>|http://www.storyvilledistrictnola.com/anderson.html||cm
+<http://linkedjazz.org/resource/Emile_Labat>|http://www.charbonnetfuneralhome.com/fh/home/home.cfm?fh_id=11114|Emile Labat is the namesake of this funeral home|cm
+<http://linkedjazz.org/resource/Frankie_Fairfax>|http://www.pbs.org/jazz/biography/artist_id_gillespie_dizzy.htm|Band leader|cm
+<http://linkedjazz.org/resource/George_Augustin>|http://www.pbs.org/jazz/biography/artist_id_gillespie_dizzy.htm|Band leader|cm
+<http://linkedjazz.org/resource/Richard_Mclean>|http://www.jazzdisco.org/riverside-records/discography-1951-1956/||cm
+<http://linkedjazz.org/resource/Milford_Piron>|http://books.google.com/books?id=CE8xiT3pV6QC&pg=PT31&lpg=PT31&dq=Milford+Piron&source=bl&ots=hAiFwOSMJM&sig=bQrNtkxCQD5up-sgnZxCCbfs5yU&hl=en&sa=X&ei=tzymUa_uI-Tx0wGmk4GwCw&ved=0CGYQ6AEwCQ|Texas orchestra leader
+|cm
+<http://linkedjazz.org/resource/Billy_Fowler>|http://en.wikipedia.org/wiki/Elmer_Chambers||cm
+<http://linkedjazz.org/resource/Arnold_Adams>|http://www.allmusic.com/artist/arnold-adams-mn0001299810||cm
+<http://linkedjazz.org/resource/Arnold_Metoyer>|http://www.hurricanebrassband.nl/Musician%20Arnold%20Metoyer.htm||cm
+<http://linkedjazz.org/resource/Charlie_Bocage>|https://sites.duke.edu/banjology/banjo-and-jazz/jazz-banjo-ists-of-new-orleans/charles-bocage/|Banjo player|cm
+<http://linkedjazz.org/resource/Ratty_Jean_Vigne>|http://books.google.com/books?id=T6a2X2B5lHkC&pg=PA68&lpg=PA68&dq=Ratty+Jean+Vigne&source=bl&ots=UHmP_qj7oL&sig=a-7Eeh3VtoPxf4IO8m1X7hchyqw&hl=en&sa=X&ei=NqOvUem-E7H64AOynYD4Dg&ved=0CC0Q6AEwAA#v=onepage&q=Ratty%20Jean%20Vigne&f=false|Drummer|cm
+<http://linkedjazz.org/resource/Ernest_Kelly>|http://books.google.com/books?id=oAcx9Kc7BJ4C&pg=PA121&lpg=PA121&dq=Ernest+Kelly+jazz&source=bl&ots=vv_6x7XYK7&sig=BIvo2UfQIboZ9AcMnfiEqWvUrDA&hl=en&sa=X&ei=r6qvUc3NOrGq4AOf04BA&ved=0CFoQ6AEwBg#v=onepage&q=Ernest%20Kelly%20jazz&f=false||cm
+<http://linkedjazz.org/resource/Ernest_Trepagnier>|http://en.wikipedia.org/wiki/Olympia_Orchestra||cm
+<http://linkedjazz.org/resource/George_Boyd>|||cm
+<http://linkedjazz.org/resource/Herb_Mann>|http://www.redhotjazz.com/lso.html|Banjo player|cm
+<http://linkedjazz.org/resource/Louis_Arthidore>|http://www.hurricanebrassband.nl/Brassband%20onward%20brass%20band.htm||cm
+<http://linkedjazz.org/resource/Lionel_Tapo>|http://books.google.com/books?id=T6a2X2B5lHkC&pg=PA132&lpg=PA132&dq=Lionel+Tapo&source=bl&ots=UHmP_qm9pL&sig=h1O3EHdRpc2rAcY6EkwG7POu6Ro&hl=en&sa=X&ei=wK-vUYPeNaTq0QHI4oGYAQ&ved=0CC4Q6AEwATgK#v=onepage&q=Lionel%20Tapo&f=false||cm
+<http://linkedjazz.org/resource/Lawrence_Toca>|http://www.hurricanebrassband.nl/Musician%20Lawrence%20Toca.htm||cm
+<http://linkedjazz.org/resource/Joseph_Thomas>|http://www.allmusic.com/artist/joe-cornbread-thomas-mn0001411813||cm
+<http://linkedjazz.org/resource/Johnny_Dave>|http://sites.duke.edu/banjology/banjo-and-jazz/jazz-banjo-ists-of-new-orleans/johnny-dave/|Banjo player|cm
+<http://linkedjazz.org/resource/Sy_Baron>|http://books.google.com/books?id=0YPjq2EoBREC&lpg=PA154&dq=Sy%20Baron%20jazz&pg=PA154#v=onepage&q=Sy%20Baron%20jazz&f=false|Owned a club called Composer, 58th and 6 Ave|mm
+<http://linkedjazz.org/resource/Father_Peter_O'Brien>|http://en.wikipedia.org/wiki/Mary_Lou_Williams|Father Peter O'Brien became her close friend and personal manager in the 1960s|mm
+<http://linkedjazz.org/resource/Sparky_Tavares_(manager)>|http://www.highbeam.com/doc/1G1-17592516.html|managed Nat King Cole and Nancy Wilson|sf
+<http://linkedjazz.org/resource/Al_Wilde>|http://en.wikipedia.org/wiki/Billie_Holiday|managed Leslie Uggams and Billie Holiday|sf
+<http://linkedjazz.org/resource/Howard_Mandolf>|http://en.wikipedia.org/wiki/Miss_Etta_James:_The_Complete_Modern_and_Kent_Recordings|"Hickory Dickory Dock" (Howard Mandolph) - 3:03|cm
+<http://linkedjazz.org/resource/Jerry_Brock>|http://en.wikipedia.org/wiki/Louisiana_Music_Factory|The store was opened in February 1992 by two founders Jerry Brock and Barry Smith on Peters Street in the French Quarter.[1] Brock had been known as one of the founders of the local radio station WWOZ, and a producer who first recorded the Dirty Dozen Brass Band.|cm
+<http://linkedjazz.org/resource/Louis_Bibbs_Lazard>|http://batistebrothersband.com/Discography.html|From Louisiana, playing alto sax|cm
+<http://linkedjazz.org/resource/Lynn_Grissett_(trumpet)>|https://www.facebook.com/lynn.grissett.5|former student of Branford Marsalis|sf
+<http://linkedjazz.org/resource/Shaena_Ryan>|http://curtjazz.com/2011/02/21/my-dinner-with-delfeayo-with-jam-for-dessert/|former student of Branford Marsalis|sf
+<http://linkedjazz.org/resource/Clifford_"Boy"_Bigeou>|||cm
+<http://linkedjazz.org/resource/Al_Cafagna>|http://www.superpages.com/bp/East-Lansing-MI/Summer-Solstice-Jazz-Festival-L2405146143.htm|In 1996, under the direction of former East Lansing Arts Commission Co-Chair and jazz guru Al Cafagna, the East Lansing Arts Commission presented the City of East Lansingbs first Summer Solstice Jazz Festival. |cm
+<http://linkedjazz.org/resource/Anthony_Keith_Foster>||Frank Foster's son|cm
+<http://linkedjazz.org/resource/Bud_Rohs>|http://www.jazzhot.net/PBEvents.asp?ActionID=67240448&PBMItemID=19355|Frank Foster's teacher|cm
+<http://linkedjazz.org/resource/Charles_Amos_Foster>||Frank Foster's brother|cm
+<http://linkedjazz.org/resource/Fostina_Dixon>|http://en.wikipedia.org/wiki/Clifford_Brown_Jazz_Festival|Fostina Dixon and Winds Of Change|cm
+<http://linkedjazz.org/resource/James_"Beans"_Richardson>|http://www.discogs.com/artist/James+%22Beans%22+Richardson||cm
+<http://linkedjazz.org/resource/Jimmy_Wilkins>|http://www.jazzwax.com/2012/02/interview-jimmy-wilkins-part-1.html|Jimmy Wilkins is the younger brother of Ernie Wilkins, the prolific composer and big band arranger who died in 1999. Today, Jimmy lives outside of Las Vegas and leads a big band in Henderson, Nev., carrying on his brother's legacy. The band's book features wow-pow charts by his brother and Frank Foster. - See more at: http://www.jazzwax.com/2012/02/interview-jimmy-wilkins-part-1.html#sthash.5w1o3PM3.dpuf|cm
+<http://linkedjazz.org/resource/John_Wilson>|http://books.google.com/books?id=K11GJ-xaEcoC&pg=PA142&lpg=PA142&dq=%22Little+John+Wilson+and+his+Merry+Men%22&source=bl&ots=Z7K7rbyFxA&sig=0mWi5_fVxUxtl36J8Gt6uHK4x5k&hl=en&sa=X&ei=Cm3IUYMFsMTgA7y_gagE&ved=0CC0Q6AEwAA#v=onepage&q=%22Little%20John%20Wilson%20and%20his%20Merry%20Men%22&f=false||cm
+<http://linkedjazz.org/resource/Willie_Anderson>|http://www.detroitmusichistory.com/willie-anderson.html||cm
+<http://linkedjazz.org/resource/William_Lowe>|http://africana-studies.williams.edu/news-and-events/bill-lowe-distinguished-jazz-trombonist-to-be-our-sterling-brown-professor-spring-2011/||cm
+<http://linkedjazz.org/resource/Thomas_Owens>|http://www.amazon.com/Bebop-The-Music-Its-Players/dp/0195106512||cm
+<http://linkedjazz.org/resource/Raymond_Walters_(jazz-pianist)>|http://www.jazzhouse.org/nlib/index.php3?read=panken7|mentioned in several interviews, associate of Stuff Smith|sf
+<http://linkedjazz.org/resource/Sidney_Miller_(musician,manager,publisher)>|http://livinglegendsfoundation.com/board-members/sidney-miller||sf
+<http://linkedjazz.org/resource/Harry_Gray_(president-Local208)>|http://www.cfm10208.com/display.php?id=100|influential musicians' labor union|sf
+<http://linkedjazz.org/resource/Sidney_Miller_(musician,manager,publisher)>|http://livinglegendsfoundation.com/board-members/sidney-miller||sf
+<http://linkedjazz.org/resource/Ruth_Williams>|http://ruthwilliamsdance.webs.com/ourfounder.htm||sf
+<http://linkedjazz.org/resource/Sidney_Miller_(musician,manager,publisher)>|http://livinglegendsfoundation.com/board-members/sidney-miller||sf
+<http://linkedjazz.org/resource/Stan_Willis>|http://forums.musicplayer.com/ubbthreads.php/topics/2354621/1|"In San Francisco, there was a stride-player named stanley willis, who would wear a robe, wear a rich-shaw hat, who would often play with charles Mingus, or Verne Alley."|cm
+<http://linkedjazz.org/resource/Sidney_Smart>|http://www.discogs.com/artist/Sidney+Smart||cm
+<http://linkedjazz.org/resource/Ronny_Aprea>|http://www.ronaprea.com/||cm
+<http://linkedjazz.org/resource/Raymond_Herring>|http://articles.mcall.com/1993-04-04/news/2925035_1_trombonist-in-area-bands-allentown-orchestra|Obituary |cm
+<http://linkedjazz.org/resource/Philip_Hill>|http://www.ipl.org/div/detjazz/Bebop.html|It all started in 1948 when the Blue Bird hired pianist Phil Hill and told him to assemble a house band specializing in the newest thing from New York City - bebop. There had been music at the Blue Bird Inn intermittently since the mid-'30s, but this was the first time that the new generation of beboppers was heard there. Hill hired vibraphonist Abe Woodly and drummer Art Mardigian (later Mardigan). Mardigan soon left Detroit to pursue national prominence, but his brief stay at the Inn had a strong effect on someone who has since become one of the world's greatest drummers|cm
+<http://linkedjazz.org/resource/Paul_Robinson>|http://highstreetstompers.com/theband.php|PAUL ROBINSON (banjo and vocals) is Professor of Double Bass in the School of Music at OSU. He is a member of the ProMusica Chamber Orchestra of Columbus and a former member of the Opera House Orchestra of the Kennedy Center for Performing Arts in Washington, DC. He has performed, conducted a variety of workshops, or delivered presentations in Canada, England, Scotland, Germany, Austria, Hungary and Brazil.|cm
+<http://linkedjazz.org/resource/Donald_Benjamin>||Foster's son|cm
+<http://linkedjazz.org/resource/Josh_Thompson>|http://www.allmusic.com/artist/joshua-thompson-mn0000232400||cm
+<http://linkedjazz.org/resource/Kenny_Forsh>|http://www.jazz.com/encyclopedia/forsh-kenny-kenneth-allan||cm
+<http://linkedjazz.org/resource/Kenyatta_Beasley>|http://kenyattabeasley.com/|Personal homepage|cm
+<http://linkedjazz.org/resource/Charles_"Lefty"_Edwards>|http://www.jazzdiscography.com/Leaders/EdwardsLefty-ldr.php||cm
+<http://linkedjazz.org/resource/Lillian_Iona_Watts>||Foster's mother|cm
+<http://linkedjazz.org/resource/Little_John_Wilson>|http://www.imdb.com/name/nm3015316/||cm
+<http://linkedjazz.org/resource/Matthew_Garrett>|http://en.wikipedia.org/wiki/Dee_Dee_Bridgewater||cm
+<http://linkedjazz.org/resource/Nathan_Conyers>|http://www.thehistorymakers.com/biography/nathan-conyers-39||cm
+<http://linkedjazz.org/resource/Sidney_Miller_(musician,manager,publisher)>|http://livinglegendsfoundation.com/board-members/sidney-miller||sf
+<http://linkedjazz.org/resource/Sidney_Miller_(musician,manager,publisher)>|http://livinglegendsfoundation.com/board-members/sidney-miller||sf
+<http://linkedjazz.org/resource/Sidney_Miller_(musician,manager,publisher)>|http://livinglegendsfoundation.com/board-members/sidney-miller||sf
+<http://linkedjazz.org/resource/Ed_Fuerst_(producer)>|http://www.discogs.com/Tal-Farlow-Fuerst-Set/release/3041792|Producer/engineer/jazz enthusiast|sf
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||sf
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||sf
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||sf
+<http://linkedjazz.org/resource/Minnie_Hightower_(alto-saxophonist)>|http://en.wikipedia.org/wiki/Alma_Julia_Hightower|daughter of Alma Hightower|sf
+<http://linkedjazz.org/resource/Jean_Davis_(trumpet)>|http://books.google.com/books?id=-cJHuaH5M5oC&pg=PA167&lpg=PA167&dq=Jean+Davis+trumpet&source=bl&ots=b1i5wjzNnj&sig=_VngmTVdDZeeDWSqrMH_-NXzP38&hl=en&sa=X&ei=zrfdUf2KMO2y4AOxloFo&ved=0CC0Q6AEwATgK#v=onepage&q=Jean%20Davis%20trumpet&f=false|mentioned in several histories of women in jazz|sf
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||sf
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||sf
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||mm
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||mm
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||mm
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||mm
+<http://linkedjazz.org/resource/Sidney_Miller_(musician,manager,publisher)>|http://livinglegendsfoundation.com/board-members/sidney-miller||sf
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||mm
+<http://linkedjazz.org/resource/Sidney_Miller_(musician,manager,publisher)>|http://livinglegendsfoundation.com/board-members/sidney-miller||sf
+<http://linkedjazz.org/resource/Sidney_Miller_(musician,manager,publisher)>|http://livinglegendsfoundation.com/board-members/sidney-miller||sf
+<http://linkedjazz.org/resource/Edith_Stephen>|http://edithstephen.webs.com/|Artist's website|jn
+<http://linkedjazz.org/resource/Russell_Smith>|http://www.allmusic.com/artist/russell-smith-mn0001236232/biography|From All Music|jn
+<http://linkedjazz.org/resource/Alvin_Thomas_(saxophonist)>|http://www.allmusic.com/artist/alvin-thomas-mn0000258890/credits|New Orleans saxophonist, mentioned in several interviews.|sf
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||mm
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||mm
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||mm
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||sf
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||sf
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||sf
+<http://linkedjazz.org/resource/Sidney_Miller_(musician,manager,publisher)>|http://livinglegendsfoundation.com/board-members/sidney-miller||sf
+<http://linkedjazz.org/resource/Phil_Hardymon_(jazz_educator)>|http://en.wikipedia.org/wiki/Jazzschool|Trumpet Player and founder of famed Berkeley CA Jazz program|sf
+<http://linkedjazz.org/resource/Michael_Nash_(lyricist)>|http://articles.latimes.com/1995-11-23/entertainment/ca-6535_1_grateful-dead|Collaborator with David Murray & Bob Weir on Satchel Paige musical|sf
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||sf
+<http://linkedjazz.org/resource/Alice_Young_(piano,organ)>|http://www.allmusic.com/album/cry-of-the-wounded-jukebox-mw0000569329/credits||sf
+<http://linkedjazz.org/resource/Sidney_Miller_(musician,manager,publisher)>|http://livinglegendsfoundation.com/board-members/sidney-miller||sf
+<http://linkedjazz.org/resource/Sidney_Miller_(musician,manager,publisher)>|http://livinglegendsfoundation.com/board-members/sidney-miller||sf

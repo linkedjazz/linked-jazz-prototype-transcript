@@ -1,0 +1,49 @@
+
+\n[S|E]\s
+\n[S|G|MG|J|D]\s
+\s\sI:|W:\s\s
+\n[D|R]\s
+MR\. ALBERTSON:|MR\. CHEATHAM:\s
+\nLIDA BAKER:|J\.J\. JOHNSON:|DAVID BAKER:\s
+\nLIDA BAKER:|J\.J\. JOHNSON:|DAVID BAKER:
+\nLIDA BAKER:\s|\nJ\.J\. JOHNSON:\s|\nDAVID BAKER:\s
+\nMR\. BROWN:\s|\nMR\. BROWN:\s
+\nRitz:\s|\nScott:\s|\nJeannie Scott:\s|\nJimmy Scott:\s
+S\s|T\s
+S\s|E\s
+S\s|E\s|W\s
+S\s|B\s|M\s|G\s
+\nBrown:\s|\nHaynes:\s|\nRoy\sHaynes:\s|\nAnthony\sBrown:\s|\nKen\sKimery:\s|\nKimery:\s
+Bellson:\s|Brown:\s
+Brown:\s|Bellson:\s
+\nD\s|\nR\s|\sD\s|\sR\s
+\sCT:\s|\sJW:\s|\sMW:\s
+CT:\s|\sJW:\s|\sMW:\s
+CT:\s|JW:\s|MW:\s
+Brubeck:\s|Gioia:\s|Kimery:\s|Iola Brubeck:\s|Dave:\s|Dave Brubeck:\s|Iola:\s|Gloyd:\s
+Gioia:\s|Kimery:\s|Iola Brubeck:\s|Dave:\s|Dave Brubeck:\s|Iola:\s|Gloyd:\s|Brubeck:\s
+\nS\s|\nE\s
+\nS\s|\nE\s|\sE\s|\sS\s
+\sE\s|\sS\s
+JW:\s|LG:\s|MR:\s
+E\s|S\s
+SH:\s|MR:\s
+Brown:\s|Kimery:\s|Bellson:\s
+SALLY\sPLAXSON:\s|ABBEY\sLINCOLN:\s
+Brown:\s|Marsalis:\s|Kimery:|\s
+Brown:\s|Marsalis:\s|Kimery:|\s|"Brown:\s
+\s\sI:\s|\s\sW:\s
+I:|W:
+\nBrown:|\nMarsalis:
+\nBrown:\s|\nMarsalis:\s
+MW:\s|BT:\s|GT:\s
+BH:\s|MW:\s|RS:\s
+Bryant:\s|Liston:\s|]\sListon:\s
+Bryant:\s|]\sBryant:\s|Liston:\s|]\sListon:\s
+Bryant:\s|]\sBryant:\s|Liston:\s|]\sListon:\s|Watson:\s
+S\s|K\s
+Liston:\s|Watson:\s|Bryant:\s
+Liston:\s|Watson:\s|Bryant:\s|Melba Liston:\s
+\nListon:|\nWatson:|\nBryant:|\nMelba Liston:
+RR:\s|MR:\s
+DM:\s|MR:\s
